@@ -1,5 +1,5 @@
 # studio.website
-Github Pages for Studio HO and CO
+Github Pages for our Studio
 
 Theme is chosen based on the following criteria:
 
