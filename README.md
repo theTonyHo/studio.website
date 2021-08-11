@@ -1,4 +1,4 @@
-# studioHoAndCo.website
+# studio.website
 Github Pages for Studio HO and CO
 
 Theme is chosen based on the following criteria:
